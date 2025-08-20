@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\bin\Debug\Buoi3_Class.exe.config
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\bin\Debug\Buoi3_Class.exe
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\bin\Debug\Buoi3_Class.pdb
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\obj\Debug\Buoi3_Class.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\obj\Debug\Buoi3_Class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\obj\Debug\Buoi3_Class.exe
+C:\Users\Admin\source\repos\LTHDT_1\Buoi3_Class\obj\Debug\Buoi3_Class.pdb
